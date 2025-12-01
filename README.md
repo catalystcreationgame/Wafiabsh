@@ -73,9 +73,9 @@ text
 
 اذهب: https://github.com/new
 
-الاسم: wafi-absher-v003
+الاسم: wafiabsh
 
-الوصف: Wafi Absher V003 with Allam LLM
+الوصف: Wafi Absher with Allam LLM
 
 اختر: Public
 
